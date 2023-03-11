@@ -2,7 +2,7 @@
   "name": "weather_server_side",
   "version": "1.0.0",
   "description": "This is an weather api fetching using nodejs and express.js",
-  "main": "server.js",
+  "main": "api/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
