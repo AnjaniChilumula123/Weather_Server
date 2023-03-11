@@ -4,6 +4,7 @@
   "description": "This is an weather api fetching using nodejs and express.js",
   "main": "api/index.js",
   "scripts": {
+    "start": "node api/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anjani Chilumula",
